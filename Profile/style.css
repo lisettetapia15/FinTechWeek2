@@ -1,0 +1,14 @@
+div {
+    text-align: center;
+}
+
+html {
+    background-color:  #228b22;
+}
+
+img {
+    width: 45%;
+    height: 45%;
+    margin-right: auto;
+    margin-left: auto;
+}
